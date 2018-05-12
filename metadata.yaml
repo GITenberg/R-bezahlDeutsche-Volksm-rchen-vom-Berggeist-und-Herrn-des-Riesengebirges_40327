@@ -1,0 +1,36 @@
+_repo: R-bezahlDeutsche-Volksm-rchen-vom-Berggeist-und-Herrn-des-Riesengebirges_40327
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Siegert, Eugen
+    gutenberg_agent_id: '40558'
+    url: http://www.gutenberg.org/2009/agents/40558
+covers:
+- cover_type: archival
+  image_path: 40327-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Reichhardt, Rudolf
+    alias: Reichhardt, R. (Rudolf)
+    birthdate: 1859
+    gutenberg_agent_id: '40557'
+    url: http://www.gutenberg.org/2009/agents/40557
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2012-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40327'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Folklore -- Germany'
+- !lcsh 'Rübezahl (Legendary character)'
+- !lcc 'PZ'
+title: 'Rübezahl
+
+  Deutsche Volksmärchen vom Berggeist und Herrn des Riesengebirges'
+url: http://www.gutenberg.org/ebooks/40327
