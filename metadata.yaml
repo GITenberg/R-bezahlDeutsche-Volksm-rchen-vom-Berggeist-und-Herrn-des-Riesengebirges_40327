@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '40557'
     url: http://www.gutenberg.org/2009/agents/40557
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40327#R-bezahlDeutsche-Volksm-rchen-vom-Berggeist-und-Herrn-des-Riesengebirges
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2012-07-25'
 gutenberg_type: Text
